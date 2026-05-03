@@ -1,0 +1,10 @@
+AI DecodeX University Examination 2025
+
+1. What is machine learning? Explain classification and regression. (5 marks)
+2. Describe deep learning and neural networks for image recognition. (10 marks)
+3. Explain database management indexing and transaction properties. (5 marks)
+4. Solve a probability question using Bayes theorem. (10 marks)
+5. Justify the need for cyber security in computer networks. (5 marks)
+6. Write short notes on operating systems memory management. (2 marks)
+7. Compare cloud computing service models with examples. (5 marks)
+8. Discuss artificial intelligence ethics and limitations. (10 marks)

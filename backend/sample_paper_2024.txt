@@ -1,0 +1,10 @@
+AI DecodeX University Examination 2024
+
+Q1. Define artificial intelligence and explain its major applications. [2 marks]
+Q2. Explain supervised machine learning with a suitable example. [5 marks]
+Q3. Differentiate between neural networks and traditional algorithms. [5 marks]
+Q4. Calculate the output of a simple neural network with two input nodes and one hidden layer. [10 marks]
+Q5. Discuss database management normalization and its advantages. [5 marks]
+Q6. Explain computer networks routing and congestion control. [10 marks]
+Q7. Why is cyber security important in cloud computing systems? [5 marks]
+Q8. Design a study note on operating systems process scheduling. [10 marks]
