@@ -110,3 +110,7 @@ Backend on Render:
 - Scanned-image OCR is intentionally out of scope for v1.
 - The server uses in-memory storage, so uploaded papers reset when the backend restarts.
 - Topic extraction is heuristic-first for speed and reliability during demos.
+  ## 🎥 Demo Video
+
+Watch the working prototype here:
+[https://your-video-link](https://drive.google.com/file/d/1t-54-NDprUxchjgAPdFHY1XvhHQq-b26/view?usp=sharing)
